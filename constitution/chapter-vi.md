@@ -22,8 +22,6 @@ A person shall be qualified for election to the office of the President if -
 
  (d) he has been educated up to at least School Certificate level or its equivalent
 
- A person shall be qualified for election to the office of the President if -
-
 #### Section 132
 
 1. An election to the office of President shall be held on a date to be appointed by the Independent National Electoral Commission
